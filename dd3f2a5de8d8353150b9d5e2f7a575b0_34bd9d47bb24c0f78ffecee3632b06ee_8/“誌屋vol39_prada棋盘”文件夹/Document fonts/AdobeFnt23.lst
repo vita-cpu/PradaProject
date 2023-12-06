@@ -1,0 +1,115 @@
+%!Adobe-FontList 1.23
+%Locale:0x804
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/wiki/Desktop/“誌屋vol39_prada棋盘”文件夹/Document fonts/AdobeFnt23.lst
+FileLength:2367
+FileModTime:723312827
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Austin-Roman
+FamilyName:Austin
+StyleName:Roman
+MenuName:Austin Roman
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Austin Roman
+WritingScript:Roman
+OutlineFileName:/Users/wiki/Desktop/“誌屋vol39_prada棋盘”文件夹/Document fonts/Austin-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:118184
+FileModTime:716800580
+NameArray:0,Mac,4,Austin Roman
+NameArray:0,Win,1,Austin Roman
+NameArray:0,Win,16,Austin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Graphik-Light
+FamilyName:Graphik
+StyleName:Light
+MenuName:Graphik Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Graphik Light
+WritingScript:Roman
+OutlineFileName:/Users/wiki/Desktop/“誌屋vol39_prada棋盘”文件夹/Document fonts/Graphik-Light副本.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:128636
+FileModTime:673601355
+NameArray:0,Mac,4,Graphik Light
+NameArray:0,Win,1,Graphik Light
+NameArray:0,Win,16,Graphik
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Graphik-Medium
+FamilyName:Graphik
+StyleName:Medium
+MenuName:Graphik Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Graphik Medium
+WritingScript:Roman
+OutlineFileName:/Users/wiki/Desktop/“誌屋vol39_prada棋盘”文件夹/Document fonts/Graphik-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:130984
+FileModTime:461732682
+NameArray:0,Mac,4,Graphik Medium
+NameArray:0,Win,1,Graphik Medium
+NameArray:0,Win,16,Graphik
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Graphik-Semibold
+FamilyName:Graphik
+StyleName:Semibold
+MenuName:Graphik Semibold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Graphik Semibold
+WritingScript:Roman
+OutlineFileName:/Users/wiki/Desktop/“誌屋vol39_prada棋盘”文件夹/Document fonts/Graphik-Semibold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:131560
+FileModTime:461732683
+NameArray:0,Mac,4,Graphik Semibold
+NameArray:0,Win,1,Graphik Semibold
+NameArray:0,Win,16,Graphik
+%EndFont
+
